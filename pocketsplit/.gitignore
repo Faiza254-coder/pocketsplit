@@ -1,0 +1,12 @@
+# OS / editor
+Thumbs.db
+.DS_Store
+.vscode/
+.idea/
+
+# Test tooling (generated, not part of the app)
+tools/test/node_modules/
+tools/test/test-results/
+tools/test/playwright-report/
+tools/test/.playwright/
+*.log

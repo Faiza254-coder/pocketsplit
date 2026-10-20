@@ -1,0 +1,72 @@
+{
+  "app": "pocketsplit",
+  "format": 1,
+  "appVersion": "1.0.0",
+  "exportedAt": "2026-10-20T06:11:17.248Z",
+  "currency": "PKR",
+  "summary": {
+    "workers": 2,
+    "transactions": 5,
+    "shopExpenses": 29700,
+    "homeExpenses": 7600.75,
+    "totalExpenses": 37300.75,
+    "repayments": 0,
+    "oldestDate": "2026-10-01",
+    "newestDate": "2026-10-08"
+  },
+  "checksum": "fnv1a:498da0c3",
+  "data": {
+    "workers": [
+      {
+        "id": "dc85773b-aadb-4f3f-89e8-c9b15b2139f0",
+        "name": "Ali Raza",
+        "createdAt": "2026-10-20T06:11:08.048Z",
+        "updatedAt": "2026-10-20T06:11:08.048Z"
+      },
+      {
+        "id": "99bb97a8-f86d-4d15-81f5-5aedf0a8136a",
+        "name": "Sajid",
+        "createdAt": "2026-10-20T06:11:09.365Z",
+        "updatedAt": "2026-10-20T06:11:09.365Z"
+      }
+    ],
+    "transactions": [
+      {
+        "id": "155f0283-316e-427c-9627-d8d5539f9faf",
+        "section": "home",
+        "direction": "out",
+        "description": "Chicken",
+        "amount": 2200,
+        "date": "2026-10-08",
+        "time": "17:20",
+        "category": null,
+        "note": null,
+        "workerId": null,
+        "workerName": null,
+        "paymentType": null,
+        "createdAt": "2026-10-20T06:11:15.015Z",
+        "updatedAt": "2026-10-20T06:11:15.015Z"
+      },
+      {
+        "id": "951e6abb-7d2e-4d1b-b86c-7c322296b747",
+        "section": "home",
+        "direction": "out",
+        "description": "Groceries",
+        "amount": 5400.75,
+        "date": "2026-10-07",
+        "time": "19:45",
+        "category": null,
+        "note": null,
+        "workerId": null,
+        "workerName": null,
+        "paymentType": null,
+        "createdAt": "2026-10-20T06:11:13.897Z",
+        "updatedAt": "2026-10-20T06:11:13.897Z"
+      },
+      {
+        "id": "2c0a1545-4e56-494f-a0c2-9df2c7a4b101",
+        "section": "shop",
+        "direction": "out",
+        "description": "Tea for workers",
+        "amount": 1500,
+        "date": "2026-10-06",

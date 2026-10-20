@@ -1,0 +1,5 @@
+PocketSplit 1.0.0
+Built: 2026-10-20
+Stack: HTML + CSS + ES modules, IndexedDB, service worker, no build step
+Files changed since previous release: initial release
+To publish an update: edit files, bump CACHE_VERSION in sw.js, push to GitHub.
